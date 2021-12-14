@@ -1,4 +1,4 @@
-### Heyy! 👋
+### Hello Folks! 👋
 
 - 🔭 I’m currently working on React and TypeScript.
 - 🌱 I’m currently learning Rust.
