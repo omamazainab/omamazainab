@@ -1,7 +1,6 @@
 ### Hello Folks! 👋
 
 - 🔭 I’m currently working on React and TypeScript.
-- 👯 I’ll definately collaborate on making blogs or for pair programming.
 - 📫 How to reach me: omamazainab00@gmail.com.
 - 😄 Pronouns: she/her.
 
